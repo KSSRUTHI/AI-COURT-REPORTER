@@ -1,3 +1,4 @@
+setuptools<81
 Flask==2.3.3
 Flask-SocketIO==5.3.6
 Flask-CORS==4.0.0
