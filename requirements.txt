@@ -14,7 +14,7 @@ reportlab==4.0.4
 google-generativeai==0.3.2
 python-dotenv==1.0.0
 python-multipart==0.0.6
+torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
 openai-whisper==20231117
-torch==2.6.0
 numpy<2.0.0
 gunicorn==21.2.0
