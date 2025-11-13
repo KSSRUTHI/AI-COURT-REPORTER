@@ -18,3 +18,4 @@ torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
 openai-whisper==20231117
 numpy<2.0.0
 gunicorn==21.2.0
+waitress==2.1.2
